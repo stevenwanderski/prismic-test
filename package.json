@@ -11,7 +11,8 @@
   "description": "",
   "dependencies": {
     "@11ty/eleventy": "^3.0.0",
-    "@11ty/eleventy-fetch": "^4.0.1"
+    "@11ty/eleventy-fetch": "^4.0.1",
+    "@prismicio/client": "^7.11.0"
   },
   "type": "module"
 }
